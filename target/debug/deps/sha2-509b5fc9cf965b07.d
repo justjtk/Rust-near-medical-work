@@ -1,0 +1,12 @@
+/home/huamen/rust/hello-near/target/debug/deps/sha2-509b5fc9cf965b07.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/consts.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256/soft.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256/x86.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512/soft.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512/x86.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/sha2-509b5fc9cf965b07.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/consts.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256/soft.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256/x86.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512/soft.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512/x86.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/consts.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256/soft.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha256/x86.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512/soft.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/sha2-0.9.9/src/sha512/x86.rs:

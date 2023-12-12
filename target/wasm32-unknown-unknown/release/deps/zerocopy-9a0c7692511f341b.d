@@ -1,0 +1,14 @@
+/home/huamen/rust/hello-near/target/wasm32-unknown-unknown/release/deps/zerocopy-9a0c7692511f341b.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macros.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macro_util.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/util.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/third_party/rust/layout.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/wrappers.rs
+
+/home/huamen/rust/hello-near/target/wasm32-unknown-unknown/release/deps/libzerocopy-9a0c7692511f341b.rlib: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macros.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macro_util.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/util.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/third_party/rust/layout.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/wrappers.rs
+
+/home/huamen/rust/hello-near/target/wasm32-unknown-unknown/release/deps/zerocopy-9a0c7692511f341b.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macros.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macro_util.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/util.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/third_party/rust/layout.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/wrappers.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macros.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/macro_util.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/util.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/third_party/rust/layout.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/zerocopy-0.7.30/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.30

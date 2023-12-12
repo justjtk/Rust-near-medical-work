@@ -1,0 +1,17 @@
+/home/huamen/rust/hello-near/target/debug/deps/typenum-caaa4ca71b031a75.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/bit.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/int.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/marker_traits.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/operator_aliases.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/private.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/type_operators.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/uint.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/array.rs /home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out/op.rs /home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out/consts.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/typenum-caaa4ca71b031a75.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/bit.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/int.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/marker_traits.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/operator_aliases.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/private.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/type_operators.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/uint.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/array.rs /home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out/op.rs /home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out/consts.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/bit.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/int.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/marker_traits.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/operator_aliases.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/private.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/type_operators.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/uint.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/typenum-1.17.0/src/array.rs:
+/home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out/op.rs:
+/home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out/consts.rs:
+
+# env-dep:OUT_DIR=/home/huamen/rust/hello-near/target/debug/build/typenum-b9575ff80a189798/out

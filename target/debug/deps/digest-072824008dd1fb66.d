@@ -1,0 +1,11 @@
+/home/huamen/rust/hello-near/target/debug/deps/digest-072824008dd1fb66.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/ct_variable.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/rt_variable.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/wrapper.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/xof_reader.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/digest.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/digest-072824008dd1fb66.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/ct_variable.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/rt_variable.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/wrapper.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/xof_reader.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/digest.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/ct_variable.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/rt_variable.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/wrapper.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/core_api/xof_reader.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/digest-0.10.7/src/digest.rs:

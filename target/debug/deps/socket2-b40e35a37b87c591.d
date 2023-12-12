@@ -1,0 +1,11 @@
+/home/huamen/rust/hello-near/target/debug/deps/socket2-b40e35a37b87c591.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockaddr.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/socket.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockref.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sys/unix.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/libsocket2-b40e35a37b87c591.rlib: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockaddr.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/socket.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockref.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sys/unix.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/socket2-b40e35a37b87c591.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockaddr.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/socket.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockref.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sys/unix.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockaddr.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/socket.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sockref.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.10/src/sys/unix.rs:

@@ -1,0 +1,11 @@
+/home/huamen/rust/hello-near/target/debug/deps/futures_lite-18619344da9f9d9a.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/future.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/prelude.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/stream.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/io.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/libfutures_lite-18619344da9f9d9a.rlib: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/future.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/prelude.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/stream.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/io.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/futures_lite-18619344da9f9d9a.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/future.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/prelude.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/stream.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/io.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/future.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/prelude.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/stream.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-lite-1.13.0/src/io.rs:

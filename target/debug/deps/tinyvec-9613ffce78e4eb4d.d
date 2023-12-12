@@ -1,0 +1,11 @@
+/home/huamen/rust/hello-near/target/debug/deps/tinyvec-9613ffce78e4eb4d.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/array.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/array/generated_impl.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/arrayvec.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/arrayvec_drain.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/slicevec.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/tinyvec.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/tinyvec-9613ffce78e4eb4d.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/array.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/array/generated_impl.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/arrayvec.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/arrayvec_drain.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/slicevec.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/tinyvec.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/array.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/array/generated_impl.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/arrayvec.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/arrayvec_drain.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/slicevec.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.6.0/src/tinyvec.rs:

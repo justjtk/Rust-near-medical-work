@@ -1,0 +1,10 @@
+/home/huamen/rust/hello-near/target/debug/deps/crc32fast-994c2f3d5cbf2ca3.rmeta: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/baseline.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/combine.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/specialized/mod.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/table.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/huamen/rust/hello-near/target/debug/deps/crc32fast-994c2f3d5cbf2ca3.d: /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/lib.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/baseline.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/combine.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/specialized/mod.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/table.rs /home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/specialized/pclmulqdq.rs
+
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/lib.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/baseline.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/combine.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/specialized/mod.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/table.rs:
+/home/huamen/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crc32fast-1.3.2/src/specialized/pclmulqdq.rs:
